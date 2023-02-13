@@ -12,3 +12,6 @@ export const Subtitle = styled.Text`
 export const SafeArea = styled.SafeAreaView`
   margin: 16px;
 `;
+export const Container = styled.View`
+  margin-top: 20px;
+`;

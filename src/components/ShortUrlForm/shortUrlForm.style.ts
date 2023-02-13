@@ -27,6 +27,7 @@ export const StyledTextInput = styled(TextInput).attrs({
     roundness: 0,
   },
   activeUnderlineColor: tokens.palette.white[0],
+  underlineColor: tokens.palette.white[0],
 })`
   background-color: ${tokens.palette.white[0]};
   border-width: 2;
